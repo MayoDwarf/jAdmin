@@ -1,2 +1,3 @@
 jAdmin
 ======
+All Rights Reserved.
